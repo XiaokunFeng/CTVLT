@@ -102,6 +102,6 @@ You can download the trained models, and the raw tracking results here [[Google 
 
 ### Acknowledgments
 
-Our code is built on [masa](https://github.com/siyuanliii/masa), [AQATrack](https://github.com/GXNU-ZhongLab/AQATrack) and [MMTrack](hhttps://github.com/Azong-HQU/MMTrack), thanks for their great work. If you find our work useful, consider checking out their work.
+Our code is built on [masa](https://github.com/siyuanliii/masa), [AQATrack](https://github.com/GXNU-ZhongLab/AQATrack) and [MMTrack](https://github.com/Azong-HQU/MMTrack), thanks for their great work. If you find our work useful, consider checking out their work.
 
 
